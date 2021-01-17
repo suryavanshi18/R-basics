@@ -1,1 +1,1 @@
-# R-basics
+# This Repo contains the basics of R.
