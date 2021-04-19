@@ -1,1 +1,1 @@
-# This Repo contains the basics of R.
+# This Repo contains R Projects and my understanding in R
